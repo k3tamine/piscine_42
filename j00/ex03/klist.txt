@@ -1,0 +1,6 @@
+Credentials cache: API:18751
+        Principal: mgonon@42.FR
+
+  Issued                Expires               Principal
+Aug  1 13:02:15 2016  Aug  1 23:02:15 2016  krbtgt/42.FR@42.FR
+Aug  1 13:09:21 2016  Aug  1 23:02:15 2016  host/vgs-fn1.42.fr@42.FR
